@@ -1,8 +1,6 @@
 body {
-    background-color: azure;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: #013328;
     text-align: center;
-    color: blue;
-}
-p {
-    color: aqua;
+    color: #F3D849;
 }
